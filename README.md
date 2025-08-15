@@ -38,7 +38,7 @@ I’m looking to **collaborate on data analysis and visualization projects** and
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-porto-b9a093173)  
+
 [![Email](https://img.shields.io/badge/Email-diego.porto10%40gmail.com-red)](mailto:diego.porto10@gmail.com)
 
 ---
