@@ -1,27 +1,49 @@
-<h1 align="center">Hi 👋, I'm Diego Porto</h1>
-<h3 align="center">A passionate data analyst from Brazil</h3>
+# Hi 👋, I'm Diego Porto
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegoporto10&label=Profile%20views&color=0e75b6&style=plastic" alt="diegoporto10" /> </p>
+**Data Analyst | Python & Power BI Enthusiast | Turning Data into Insights**  
+From João Pessoa, Brazil 🇧🇷
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegoporto10" alt="diegoporto10" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Python for Data Science**
+## 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Python for Data Science**
+I’m a data analyst passionate about transforming raw information into clear, actionable insights.  
+Currently, I’m focusing on:
 
-- 👯 I’m looking to collaborate on **Data Analysis**
+- 📌 **Python for Data Science** (Pandas, NumPy, Matplotlib, Seaborn)  
+- 📊 **Data Visualization** with **Power BI** and **Tableau**  
+- 🗄️ **SQL** for querying and managing data  
+- 📈 Building interactive dashboards to support decision-making  
 
-- 📫 How to reach me **diego.porto10@gmail.com**
+I’m looking to **collaborate on data analysis and visualization projects** and continuously improve my analytical skills.
 
-- 📄 Know about my experiences [www.linkedin.com/in/diego-porto-b9a093173](www.linkedin.com/in/diego-porto-b9a093173)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🛠️ Skills & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Languages:** Python, SQL, DAX  
+- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Data Analysis:** Pandas, NumPy  
+- **Other Tools:** Git, Excel, Google Sheets  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoporto10&show_icons=true&locale=en&layout=compact" alt="diegoporto10" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegoporto10&show_icons=true&theme=dark&locale=en" alt="diegoporto10" /></p>
+## 📊 Featured Projects
+
+- [HR Analytics Dashboard (Power BI)](https://github.com/diegoporto10/hr-analytics)  
+- [Sales Performance Dashboard](https://github.com/diegoporto10/sales-performance)  
+- [Python Data Cleaning Script](https://github.com/diegoporto10/data-cleaning-python)  
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-porto-b9a093173)  
+[![Email](https://img.shields.io/badge/Email-diego.porto10%40gmail.com-red)](mailto:diego.porto10@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoporto10&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoporto10&layout=compact&theme=tokyonight)
