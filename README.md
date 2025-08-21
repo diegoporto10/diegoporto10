@@ -89,7 +89,7 @@ Analyzed **João Pessoa’s housing market**, with focus on:
 - 📁 **GitHub Repo:**  
   https://github.com/diegoporto10/joao-pessoa-real-estate
 - 📄 **Report (PDF):**  
-  [Quality of Life Index](https://github.com/diegoporto10/joao-pessoa-real-estate/raw/main/Quality%20of%20life%20index%20by%20Neighborhood.pdf)
+  [Quality of Life Index (Download)](https://github.com/diegoporto10/joao-pessoa-real-estate/raw/main/quality-of-life.pdf)
 
 ---
 
@@ -112,3 +112,4 @@ pip install -r requirements.txt
 python src\clean.py --input data\raw\sample.csv ^
                     --output data\processed\clean.csv ^
                     --int-cols age,years_at_company
+
