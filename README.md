@@ -16,7 +16,7 @@ I’m a data analyst passionate about transforming raw information into clear, a
 I focus on **clean data models**, **clear KPIs**, and **pragmatic storytelling**.
 
 - 🐍 **Python for Data Science** (Pandas, NumPy, Matplotlib, Seaborn)  
-- 📊 **Visualization** (Power BI)  
+- 📊 **Visualization** (Power BI, Tableau)  
 - 🧱 **SQL** for querying & modeling  
 - 🧭 **Dashboards** that support decision-making
 
@@ -67,7 +67,33 @@ Identified a **12% MoM drop** tied to stockouts; recommended **inventory buffer*
 
 ---
 
-### 3) Python Data Cleaning Script
+### 3) João Pessoa Real Estate — Market Insights
+
+**Domain:** Real Estate • **Stack:** Power BI, Python (Pandas, Matplotlib), SQL • **Dataset:** Local listings & indexes  
+
+Analyzed **João Pessoa’s housing market**, with focus on:  
+- 📈 **Property appreciation trends**  
+- ⚖️ **Risk vs. return analysis**  
+- 🏙 **Quality of life index by neighborhood**  
+
+<img src="https://raw.githubusercontent.com/diegoporto10/joao-pessoa-real-estate/main/images/qualidade-de-vida.png" width="820" alt="Quality of Life by Neighborhood">
+
+<img src="https://raw.githubusercontent.com/diegoporto10/joao-pessoa-real-estate/main/images/risco-vs-retorno.png" width="820" alt="Risk vs Return">
+
+<img src="https://raw.githubusercontent.com/diegoporto10/joao-pessoa-real-estate/main/images/valorizacao.png" width="820" alt="Property Value Appreciation">
+
+**Links:**
+
+- 📊 **View Dashboard (PBIX):**  
+  [Download](https://github.com/diegoporto10/joao-pessoa-real-estate/raw/main/Análises%20Imobiliárias.pbix)
+- 📁 **GitHub Repo:**  
+  https://github.com/diegoporto10/joao-pessoa-real-estate
+- 📄 **Report (PDF):**  
+  [Quality of Life Index](https://github.com/diegoporto10/joao-pessoa-real-estate/raw/main/Quality%20of%20life%20index%20by%20Neighborhood.pdf)
+
+---
+
+### 4) Python Data Cleaning Script
 
 **Goal:** Reusable Pandas pipeline for fast data cleaning (rename/trim, type fixing, dedupe, coercions, and deriving age/tenure bands).
 
