@@ -6,6 +6,7 @@ From João Pessoa, Brazil (UTC−03)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Viz-FFB900?logo=powerbi&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-2F74C0?logo=microsoftsqlserver&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-Data%20Wrangling-3776AB?logo=python&logoColor=white)](#)
+[![Tableau](https://img.shields.io/badge/Tableau-Storytelling-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/diego.porto.de.vasconcelos.ribeiro/vizzes)
 [![Email](https://img.shields.io/badge/Email-diego.porto10%40gmail.com-595959?logo=gmail&logoColor=white)](mailto:diego.porto10@gmail.com)
 
 ---
@@ -13,7 +14,7 @@ From João Pessoa, Brazil (UTC−03)
 ## About Me
 
 I’m a data analyst passionate about transforming raw information into clear, actionable insights.  
-I focus on **clean data models**, **clear KPIs**, and **pragmatic storytelling**.
+I focus on **clean data models**, **clear KPIs**, and **pragmatic storytelling** that drive decisions.
 
 - 🐍 **Python for Data Science** (Pandas, NumPy, Matplotlib, Seaborn)  
 - 📊 **Visualization** (Power BI, Tableau)  
@@ -23,6 +24,32 @@ I focus on **clean data models**, **clear KPIs**, and **pragmatic storytelling**
 ---
 
 ## Featured Projects
+
+### 🔵 NEW (Tableau) — Brazilian Capitals 2025: Quality of Life, Costs & Investment
+
+**Domain:** Urban & Real Estate • **Stack:** Tableau, Python (prep), Excel • **Focus city:** João Pessoa (PB)
+
+Three stories analyzing Brazilian capitals in 2025, highlighting **João Pessoa** as a prime city to **live and invest** — combining **low cost of living**, **high appreciation**, and **top STR yield**.
+
+🔗 **Tableau Public (all stories):**  
+https://public.tableau.com/app/profile/diego.porto.de.vasconcelos.ribeiro/vizzes
+
+**1) Quality of Life in Brazilian Capitals (2025)**  
+- Green area per capita • Average commuting time • Numbeo index  
+- **João Pessoa leads on mobility & overall quality**  
+![Quality of Life](https://raw.githubusercontent.com/diegoporto10/real-estate-joao-pessoa/main/images/story1_qualidade_de_vida.png)
+
+**2) Cost of Living & Housing Market (2025)**  
+- Rent for 2BR • Prime-zone price per m² • Monthly cost per person  
+- **João Pessoa remains affordable vs. SP/RJ**  
+![Cost & Market](https://raw.githubusercontent.com/diegoporto10/real-estate-joao-pessoa/main/images/story2_custo_vida_mercado.png)
+
+**3) Real Estate Opportunities 2025**  
+- Prime m² price • Annual appreciation (FipeZAP) • Airbnb STR Yield  
+- **João Pessoa: 18.25% appreciation + 13% STR yield**  
+![Opportunities](https://raw.githubusercontent.com/diegoporto10/real-estate-joao-pessoa/main/images/story3_oportunidades_investimento.png)
+
+---
 
 ### 1) HR Analytics — Attrition & Tenure (Power BI)
 
@@ -38,7 +65,6 @@ Segmented risk cohorts and proposed retention levers prioritized by impact vs. c
 <img src="https://raw.githubusercontent.com/diegoporto10/hr-analytics-attrition/main/assets/quickwins_demo.gif" width="820" alt="HR Analytics — Quick Wins demo">
 
 **Links:**
-
 - 📊 **View Dashboard (PBIX):**  
   [Download](https://github.com/diegoporto10/hr-analytics-attrition/raw/main/HR-Attrition-Overview.pbix)
 - 📁 **GitHub Repo:**  
@@ -57,7 +83,6 @@ Identified a **12% MoM drop** tied to stockouts; recommended **inventory buffer*
 <img src="https://raw.githubusercontent.com/diegoporto10/retail-sales-intelligence-pbi/refs/heads/main/images/executive-overview.png" width="820" alt="Retail Executive Overview">
 
 **Links:**
-
 - 📊 **View Dashboard (PBIX):**  
   [Download](https://github.com/diegoporto10/retail-sales-intelligence-pbi/raw/main/Retail%20Sales%20Intelligence.pbix)
 - 📁 **GitHub Repo:**  
@@ -83,7 +108,6 @@ Analyzed **João Pessoa’s housing market**, with focus on:
 <img src="https://raw.githubusercontent.com/diegoporto10/joao-pessoa-real-estate/main/images/valorizacao.png" width="820" alt="Property Value Appreciation">
 
 **Links:**
-
 - 📊 **View Dashboard (PBIX):**  
   [Download](https://github.com/diegoporto10/joao-pessoa-real-estate/raw/main/Análises%20Imobiliárias.pbix)
 - 📁 **GitHub Repo:**  
@@ -112,4 +136,3 @@ pip install -r requirements.txt
 python src\clean.py --input data\raw\sample.csv ^
                     --output data\processed\clean.csv ^
                     --int-cols age,years_at_company
-
